@@ -1,29 +1,17 @@
-# 👋 ¡Hola! Soy Joaquin De Carolis
+# 👋 Hola, soy Joaquin De Carolis
 
-Soy estudiante de **Ciencia de Datos** (1er año) y estoy empezando mi camino en el mundo de la programación y el análisis de datos. Me apasiona la tecnología, resolver problemas con código y aprender cosas nuevas todos los días.
+💻 SQL • Power BI • Java
 
----
+Desarrollador en formación enfocado en análisis de datos y desarrollo backend.  
+Actualmente construyendo proyectos para aplicar en el mundo real.
 
-## 🚀 Tecnologías que estoy aprendiendo
-- 🐍 Python (mi lenguaje principal)
-- 📊 Pandas y Matplotlib (análisis de datos)
-- 💻 Git y GitHub (control de versiones)
-- 🔢 Numpy
-- 📈 Estadística y matemáticas aplicadas
+## 🚀 Skills
+- 📊 Data Analysis: SQL, Power BI
+- ⚙️ Backend: Java
+- 🔧 Tools: Git, GitHub
 
----
-
-## 📚 Actualmente estoy:
-- Estudiando en la Universidad Nacional de La Plata (UNLP) 
-- Aprendiendo Git y GitHub para manejar mis proyectos
-- Subiendo mis primeros análisis de datos a repos públicos
-
----
-
-## 💡 Objetivo
-🔎 Estoy buscando mi **primera experiencia laboral como programador** o en análisis de datos. Estoy abierto a proyectos freelance, pasantías o colaboraciones para ganar experiencia real.
-
----
+## 📂 Proyectos
+🚧 En desarrollo...
 
 ## 📫 Contacto
 - 📧 Email: joacodecarolis@gmail.com
